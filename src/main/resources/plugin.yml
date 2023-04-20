@@ -1,0 +1,5 @@
+name: Kublik
+version: '${version}'
+main: com.github.laefye.kublik.Kublik
+api-version: 1.19
+author: Laefye
